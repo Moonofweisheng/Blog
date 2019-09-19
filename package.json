@@ -15,5 +15,8 @@
   "devDependencies": {
     "vuepress": "^1.1.0",
     "vuepress-theme-reform": "^1.4.0"
+  },
+  "dependencies": {
+    "live2d-widget": "^3.1.4"
   }
 }
