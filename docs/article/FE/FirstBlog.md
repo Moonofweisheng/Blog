@@ -1,6 +1,6 @@
 ---
 tags:
-  - vuepress
+  - FE
 ---
 # 我的第一篇博客
 
