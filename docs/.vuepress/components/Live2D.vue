@@ -2,10 +2,10 @@
 </template>
 
 <script>
-import L2Dwidget from "live2d-widget";
 export default {
     name: "live2D",
-    created() {
+    mounted() {
+        const L2Dwidget = require("live2d-widget")
         L2Dwidget.L2Dwidget.init({
             model: {
                 jsonPath: "/tororo/assets/tororo.model.json"
